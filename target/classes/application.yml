@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: java-code-review-agent
+
+server:
+  port: 8080
